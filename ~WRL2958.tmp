@@ -1,9 +1,8 @@
 site_name: EnviroTyping Model
 site_description: EnviroTyping Model 
-repo_url: https://github.com/
 theme: readthedocs
 pages:
--Home: index.md
+-Home: 
 	-‘Introduction to EnviroTyping Project’
 -Workflow:
 	-‘Getting Started’
