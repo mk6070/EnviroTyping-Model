@@ -4,10 +4,11 @@ repo_url: https://github.com/
 theme: readthedocs
 pages:
 -Home: index.md
-	-‘Introduction to EnviroTyping Project’
+	-‘Introduction to EnviroTyping Project’: intro_envirotypingModel.md
 -Workflow:
-	-‘Getting Started’
-	-‘Variables and vocabulary’
-	-‘Running the simulation’
+	-‘Getting Started’: GettingStarted.md
+	-‘Variables and vocabulary’: Variables_Vocab.md
+	-‘Running the simulation’: RunningSimulation.md
+
 -Tutorials:
 	 

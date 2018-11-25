@@ -1,0 +1,13 @@
+site_name: EnviroTyping Model
+site_description: EnviroTyping Model 
+repo_url: https://github.com/
+theme: readthedocs
+pages:
+-Home: index.md
+	-‘Introduction to EnviroTyping Project’
+-Workflow:
+	-‘Getting Started’
+	-‘Variables and vocabulary’
+	-‘Running the simulation’
+-Tutorials:
+	 
