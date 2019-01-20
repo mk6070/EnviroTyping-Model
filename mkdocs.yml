@@ -6,9 +6,12 @@ pages:
 -Home: index.md
 	-‘Introduction to EnviroTyping Project’: intro_envirotypingModel.md
 -Workflow:
-	-‘Getting Started’: GettingStarted.md
-	-‘Variables and vocabulary’: Variables_Vocab.md
-	-‘Running the simulation’: RunningSimulation.md
+	-‘Insight Maker Tutorial’: InsightMakerTutorial.md
+	-‘Purpose’: Purpose.md
+	-‘Running The Simulation’: RunningTheSimulation.md
+	-'Modifying The Variables':ModifyingTheVariables.md
+	-'Generating and Reading Data':GeneratingAndReadingData.md
+	-'Wrap-up': WrapUp.md
 
 -Tutorials:
 	 
